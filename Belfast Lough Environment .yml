@@ -1,0 +1,8 @@
+name: Belfast Lough Environment
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - geopandas
+  - folium
